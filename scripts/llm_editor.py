@@ -559,6 +559,9 @@ def main():
         github_articles = filter_already_posted(github_articles)
 
     total_candidates = len(articles) + len(github_articles)
+    if total_candidates == 0:
+        log("No valid candidates after pre-filter — all articles already seen. Exiting with 0 picks.")
+        return 0
     if top_n > total_candidates:
         top_n = total_candidates
 
