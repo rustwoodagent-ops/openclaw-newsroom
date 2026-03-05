@@ -4,6 +4,29 @@ All notable changes to the OpenClaw News Scanner pipeline are documented here.
 
 ---
 
+## [v2.1] — 2026-03-05
+
+### Added: agent-browser Fallback for Article Enrichment
+
+**Problem:** Many high-quality AI news sites (TechCrunch, The Verge, VentureBeat) serve JavaScript-rendered pages or use Cloudflare Turnstile protection. The simple HTTP fetcher in `enrich_top_articles.py` returned empty content for these sites, leaving the LLM editor with no article body to evaluate — hurting curation quality.
+
+**What changed:**
+
+- **New fetch tier in `enrich_top_articles.py`** — When the simple HTTP fetch returns empty or less than 80 chars, the pipeline now falls back to `agent-browser` (headless Chromium) to render the page and extract paragraph text.
+
+- **Three-tier enrichment chain:**
+  1. **CF Markdown / simple HTTP** — fast, parallel, handles most sites
+  2. **agent-browser headless Chromium** — sequential last resort for JS-rendered / CF-protected sites
+  3. **Skip** — paywall domains (Bloomberg, NYT, WSJ, FT) and non-article sources (Twitter, Reddit, GitHub) bypassed entirely
+
+- **Tested sites:** TechCrunch (Cloudflare Turnstile — now bypassed), The Verge (JS-rendered — now fetched), VentureBeat (now fetched). Bloomberg remains skipped — bot detection blocks even headless browsers.
+
+- **Requires:** `agent-browser` installed on the gateway (`npm install -g agent-browser && agent-browser install`).
+
+- **Enrichment stats** now report simple vs browser breakdown: `✅ Enrichment: 4/8 articles enriched (3 simple, 1 browser fallback)`
+
+---
+
 ## [v2] — 2026-03-04
 
 ### Major: Deduplication Overhaul
