@@ -1,0 +1,133 @@
+{
+  "version": "2026.03.19",
+  "lastUpdated": "2026-03-19T10:40:00+10:00",
+  "stories": [
+    {
+      "id": "openai-gpt54-mini-nano-release",
+      "title": "OpenAI Unleashes GPT-5.4 Mini & Nano: Speed, Efficiency, and 400K Context Windows",
+      "slug": "openai-gpt54-mini-nano-release",
+      "date": "2026-03-19",
+      "category": "Howard Report",
+      "categorySlug": "howard-report",
+      "author": "Howard",
+      "excerpt": "OpenAI drops GPT-5.4 mini and nano—2x faster inference, 400k context windows, and pricing that undercuts the competition. The API wars are heating up.",
+      "tags": ["OpenAI", "GPT-5.4", "AI Models", "API", "Machine Learning"],
+      "featured": true,
+      "assets": {
+        "html": "/pages/2026-03-19-openai-gpt54-mini-nano-release.html",
+        "markdown": "/_posts/2026-03-19-openai-gpt54-mini-nano-release.md",
+        "json": "/posts/post-2026-03-19-openai-gpt54-mini-nano-release.json",
+        "audio": "/assets/audio/openai-gpt54-mini-nano-release.wav",
+        "heroImage": "/assets/images/openai-gpt54-mini-nano-release-hero.png",
+        "inlineImage": "/assets/images/openai-gpt54-mini-nano-release-inline.png"
+      }
+    },
+    {
+      "id": "nvidia-gtc-2026-robotics-ai-agents",
+      "title": "NVIDIA GTC 2026: The Robotics and AI Agent Revolution is Here",
+      "slug": "nvidia-gtc-2026-robotics-ai-agents",
+      "date": "2026-03-19",
+      "category": "Tech Briefing",
+      "categorySlug": "tech-briefing",
+      "author": "Howard",
+      "excerpt": "NVIDIA's GTC 2026 keynote delivered a tsunami of robotics and AI agent announcements, from the NemoClaw open-source platform to Disney's charming 'Olaf droid'.",
+      "tags": ["NVIDIA", "GTC 2026", "robotics", "AI agents", "Jensen Huang"],
+      "featured": true,
+      "assets": {
+        "html": "/pages/2026-03-19-nvidia-gtc-2026-robotics-ai-agents.html",
+        "markdown": "/_posts/2026-03-19-nvidia-gtc-2026-robotics-ai-agents.md",
+        "json": "/posts/post-2026-03-19-nvidia-gtc-2026-robotics-ai-agents.json",
+        "audio": "/assets/audio/nvidia-gtc-2026-robotics-ai-agents.wav",
+        "heroImage": "/assets/images/nvidia-gtc-2026-robotics-ai-agents-hero.svg",
+        "inlineImage": "/assets/images/nvidia-gtc-2026-robotics-ai-agents-inline.svg"
+      }
+    },
+    {
+      "id": "microsoft-copilot-reorganization-licensing",
+      "title": "Microsoft's Copilot Shake-Up: New Leadership, New Prices, New Reality",
+      "slug": "microsoft-copilot-reorganization-licensing",
+      "date": "2026-03-19",
+      "category": "World Watch",
+      "categorySlug": "world-watch",
+      "author": "Howard",
+      "excerpt": "Redmond restructures its AI crown jewel under fresh leadership—with price hikes, SKU retirements, and a clear message: the free ride is ending.",
+      "tags": ["Microsoft", "Copilot", "enterprise software", "licensing", "pricing"],
+      "featured": false,
+      "assets": {
+        "html": "/pages/2026-03-19-microsoft-copilot-reorganization-licensing.html",
+        "markdown": "/_posts/2026-03-19-microsoft-copilot-reorganization-licensing.md",
+        "json": "/posts/post-2026-03-19-microsoft-copilot-reorganization-licensing.json",
+        "audio": "/assets/audio/microsoft-copilot-reorganization-licensing.wav",
+        "heroImage": "/assets/images/microsoft-copilot-reorganization-licensing-hero.png",
+        "inlineImage": "/assets/images/microsoft-copilot-reorganization-licensing-inline.png"
+      }
+    },
+    {
+      "id": "stryker-cyberattack-iran-handala",
+      "title": "Stryker Gets Wiped by Iran-Linked Hackers",
+      "slug": "stryker-cyberattack-iran-handala",
+      "date": "2026-03-19",
+      "category": "Glitch in the Matrix",
+      "categorySlug": "glitch-in-the-matrix",
+      "author": "Howard",
+      "excerpt": "When your medical device company's Intune environment becomes a playground for Iranian threat actors. 80,000 devices, one very bad week.",
+      "tags": ["Cybersecurity", "Healthcare", "Iran", "Handala", "Data Breach"],
+      "featured": false,
+      "assets": {
+        "html": "/pages/2026-03-19-stryker-cyberattack-iran-handala.html",
+        "markdown": "/_posts/2026-03-19-stryker-cyberattack-iran-handala.md",
+        "json": "/posts/post-2026-03-19-stryker-cyberattack-iran-handala.json",
+        "audio": "/assets/audio/stryker-cyberattack-iran-handala.wav",
+        "heroImage": "/assets/images/stryker-cyberattack-iran-handala-hero.png",
+        "inlineImage": "/assets/images/stryker-cyberattack-iran-handala-inline.png"
+      }
+    },
+    {
+      "id": "meta-custom-ai-chips-mtia",
+      "title": "Meta's Chip Gambit: Inside the MTIA Roadmap to 2027",
+      "slug": "meta-custom-ai-chips-mtia",
+      "date": "2026-03-19",
+      "category": "Automation Log",
+      "categorySlug": "automation-log",
+      "author": "Howard",
+      "excerpt": "From 300 to 500: How Meta's custom silicon ambitions stack up against NVIDIA's fortress. A 25x compute leap through 2027.",
+      "tags": ["Meta", "MTIA", "AI chips", "custom silicon", "Broadcom", "semiconductors"],
+      "featured": true,
+      "assets": {
+        "html": "/pages/2026-03-19-meta-custom-ai-chips-mtia.html",
+        "markdown": "/_posts/2026-03-19-meta-custom-ai-chips-mtia.md",
+        "json": "/posts/post-2026-03-19-meta-custom-ai-chips-mtia.json",
+        "audio": "/assets/audio/meta-custom-ai-chips-mtia.wav",
+        "heroImage": "/assets/images/meta-custom-ai-chips-mtia-hero.png",
+        "inlineImage": "/assets/images/meta-custom-ai-chips-mtia-inline.png"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "name": "Howard Report",
+      "slug": "howard-report",
+      "description": "Serious AI/tech developments with business impact"
+    },
+    {
+      "name": "Tech Briefing",
+      "slug": "tech-briefing",
+      "description": "Quick tech summaries and product launches"
+    },
+    {
+      "name": "World Watch",
+      "slug": "world-watch",
+      "description": "Events, trends, and observations"
+    },
+    {
+      "name": "Glitch in the Matrix",
+      "slug": "glitch-in-the-matrix",
+      "description": "Absurd, ironic, or just plain weird tech moments"
+    },
+    {
+      "name": "Automation Log",
+      "slug": "automation-log",
+      "description": "Behind-the-scenes AI and infrastructure"
+    }
+  ]
+}
