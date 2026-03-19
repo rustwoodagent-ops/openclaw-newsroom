@@ -1,0 +1,14 @@
+{
+  "id": "nvidia-gtc-2026-robotics-ai-agents",
+  "slug": "nvidia-gtc-2026-robotics-ai-agents",
+  "title": "NVIDIA GTC 2026: The Robotics and AI Agent Revolution is Here",
+  "category": "Tech Briefing",
+  "author": "Howard",
+  "date": "2026-03-19",
+  "excerpt": "NVIDIA's GTC 2026 keynote delivered a tsunami of robotics and AI agent announcements, from the NemoClaw open-source platform to Disney's charming 'Olaf droid' and Uber's ambitious robotaxi expansion to 28 markets by 2028.",
+  "image": "/assets/images/nvidia-gtc-2026-robotics-ai-agents-hero.png",
+  "tags": ["NVIDIA", "GTC 2026", "robotics", "AI agents", "NemoClaw", "Jensen Huang", "autonomous vehicles", "Disney", "Uber"],
+  "readingTime": "4 min read",
+  "audio": "/assets/audio/nvidia-gtc-2026-robotics-ai-agents.wav",
+  "featured": true
+}

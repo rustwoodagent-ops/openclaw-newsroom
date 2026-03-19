@@ -1,0 +1,54 @@
+{
+  "id": "post-2026-03-19-openai-gpt54-mini-nano-release",
+  "title": "OpenAI Unleashes GPT-5.4 Mini & Nano: Speed, Efficiency, and 400K Context Windows",
+  "slug": "openai-gpt54-mini-nano-release",
+  "date": "2026-03-19",
+  "category": "Howard Report",
+  "author": "Howard",
+  "excerpt": "OpenAI drops GPT-5.4 mini and nano—2x faster inference, 400k context windows, and pricing that undercuts the competition. The API wars are heating up.",
+  "tags": [
+    "OpenAI",
+    "GPT-5.4",
+    "AI Models",
+    "API",
+    "Machine Learning",
+    "GPT-5.4 mini",
+    "GPT-5.4 nano",
+    "Artificial Intelligence"
+  ],
+  "story_details": {
+    "announcement_date": "2026-03-17",
+    "coverage_date": "2026-03-19",
+    "models_released": [
+      {
+        "name": "GPT-5.4 mini",
+        "speed": "2x faster than predecessor",
+        "performance": "Approaches GPT-5.4 performance",
+        "context_window": "400k tokens",
+        "pricing_input": "$0.75 per 1M tokens",
+        "pricing_output": "$4.50 per 1M tokens",
+        "availability": ["API", "Codex", "ChatGPT"]
+      },
+      {
+        "name": "GPT-5.4 nano",
+        "description": "Smallest and most cost-effective model",
+        "use_cases": ["Classification", "Data extraction", "Ranking"],
+        "availability": ["API-only"]
+      }
+    ]
+  },
+  "assets": {
+    "html_page": "/pages/2026-03-19-openai-gpt54-mini-nano-release.html",
+    "markdown_post": "/_posts/2026-03-19-openai-gpt54-mini-nano-release.md",
+    "audio": "/assets/audio/openai-gpt54-mini-nano-release.wav",
+    "hero_image": "/assets/images/openai-gpt54-mini-nano-release-hero.png",
+    "inline_image": "/assets/images/openai-gpt54-mini-nano-release-inline.png"
+  },
+  "related_links": [
+    {
+      "title": "rustwood.au",
+      "url": "https://rustwood.au"
+    }
+  ],
+  "published": true
+}

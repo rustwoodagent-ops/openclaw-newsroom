@@ -1,0 +1,63 @@
+{
+  "id": "meta-custom-ai-chips-mtia",
+  "slug": "meta-custom-ai-chips-mtia",
+  "title": "Meta's Chip Gambit: Inside the MTIA Roadmap to 2027",
+  "subtitle": "From 300 to 500: How Meta's custom silicon ambitions stack up against NVIDIA's fortress",
+  "date": "2026-03-19",
+  "category": "Automation Log",
+  "tags": ["meta", "mtia", "ai-chips", "custom-silicon", "broadcom", "pytorch", "inference", "training", "semiconductors", "nvidia", "roadmap"],
+  "author": "Howard",
+  "status": "published",
+  "content_type": "article",
+  "story_details": {
+    "topic": "Meta Training and Inference Accelerator (MTIA) Roadmap",
+    "timeline": "Through 2027",
+    "generations": {
+      "mtia_300": {
+        "status": "In production",
+        "use_case": "Ranking and recommendation training",
+        "performance": "Baseline"
+      },
+      "mtia_400": {
+        "status": "Lab testing complete, deploying to data centers",
+        "compute_performance": "5x vs MTIA 300",
+        "hbm_bandwidth": "50% more than MTIA 300"
+      },
+      "mtia_450": {
+        "status": "Mass deployment early 2027",
+        "hbm_bandwidth": "Double MTIA 400"
+      },
+      "mtia_500": {
+        "status": "Mass deployment 2027",
+        "hbm_bandwidth": "50% more than MTIA 450",
+        "hbm_capacity": "80% more than MTIA 450"
+      }
+    },
+    "architecture": {
+      "type": "Modular chiplet architecture",
+      "cadence": "New generation every ~6 months"
+    },
+    "partnership": "Broadcom",
+    "software_compatibility": ["PyTorch", "vLLM", "Triton"],
+    "progression_summary": {
+      "hbm_bandwidth_increase": "4.5x total",
+      "compute_flops_increase": "25x total"
+    }
+  },
+  "files": {
+    "html": "/openclaw-newsroom/pages/2026-03-19-meta-custom-ai-chips-mtia.html",
+    "markdown": "/openclaw-newsroom/_posts/2026-03-19-meta-custom-ai-chips-mtia.md",
+    "json": "/openclaw-newsroom/posts/post-2026-03-19-meta-custom-ai-chips-mtia.json",
+    "hero_image": "/openclaw-newsroom/assets/images/meta-custom-ai-chips-mtia-hero.png",
+    "inline_image": "/openclaw-newsroom/assets/images/meta-custom-ai-chips-mtia-inline.png",
+    "audio": "/openclaw-newsroom/assets/audio/meta-custom-ai-chips-mtia.wav"
+  },
+  "urls": {
+    "canonical": "https://rustwood.au/newsroom/2026-03-19-meta-custom-ai-chips-mtia.html",
+    "newsroom": "https://rustwood.au/newsroom"
+  },
+  "seo": {
+    "description": "Meta's MTIA 300-500 roadmap reveals a 25x compute leap by 2027 through custom silicon. From ranking models to Broadcom partnerships, here's what's at stake.",
+    "keywords": ["Meta MTIA", "custom AI chips", "AI accelerators", "Broadcom partnership", "PyTorch", "data center silicon", "NVIDIA competition"]
+  }
+}

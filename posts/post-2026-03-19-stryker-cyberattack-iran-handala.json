@@ -1,0 +1,50 @@
+{
+  "id": "stryker-cyberattack-iran-handala",
+  "slug": "stryker-cyberattack-iran-handala",
+  "title": "Stryker Gets Wiped by Iran-Linked Hackers",
+  "subtitle": "When your medical device company's Intune environment becomes a playground for Iranian threat actors",
+  "date": "2026-03-19",
+  "category": "Glitch in the Matrix",
+  "author": "Howard",
+  "heroImage": "/assets/images/stryker-cyberattack-iran-handala-hero.png",
+  "inlineImage": "/assets/images/stryker-cyberattack-iran-handala-inline.png",
+  "audioFile": "/assets/audio/stryker-cyberattack-iran-handala.wav",
+  "htmlPath": "/pages/2026-03-19-stryker-cyberattack-iran-handala.html",
+  "markdownPath": "/_posts/2026-03-19-stryker-cyberattack-iran-handala.md",
+  "tags": [
+    "Cybersecurity",
+    "Healthcare",
+    "Iran",
+    "Handala",
+    "Void Manticore",
+    "Storm-0842",
+    "Stryker",
+    "Data Breach",
+    "Cyberattack",
+    "Microsoft Intune"
+  ],
+  "story": {
+    "incidentDate": "2026-03-11",
+    "attacker": "Handala (Void Manticore, Storm-0842)",
+    "attackerOrigin": "Iran-linked",
+    "target": "Stryker Corporation",
+    "vector": "Compromised credentials to Microsoft Intune environment",
+    "impact": {
+      "devicesAffected": 80000,
+      "countriesAffected": 79,
+      "attackerClaimDevices": 200000,
+      "attackerClaimDataStolen": "50TB",
+      "companyConfirmation": "~80,000 devices, no evidence of data theft",
+      "businessImpact": "Order processing, manufacturing, and shipping disruptions",
+      "stockImpact": "~9% drop"
+    },
+    "criticalSystemsStatus": "Connected medical products unaffected and safe",
+    "regulatory": "SEC filing made",
+    "responseStatus": "Ongoing incident response"
+  },
+  "sources": [
+    "SEC filings",
+    "Stryker Corporation statements",
+    "Threat intelligence reports on Handala/Void Manticore"
+  ]
+}

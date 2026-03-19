@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NVIDIA GTC 2026: The Robotics and AI Agent Revolution is Here | Rustwood Newsroom</title>
+    <meta name="description" content="NVIDIA's GTC 2026 keynote delivered a tsunami of robotics and AI agent announcements, from the NemoClaw open-source platform to Disney's charming 'Olaf droid' and Uber's ambitious robotaxi expansion to 28 markets by 2028.">
+    <style>
+        :root {
+            --bg-primary: #0a0a0f;
+            --bg-secondary: #12121a;
+            --bg-card: #1a1a25;
+            --accent: #00d4aa;
+            --accent-glow: rgba(0, 212, 170, 0.3);
+            --text-primary: #f0f0f5;
+            --text-secondary: #a0a0b0;
+            --text-muted: #606070;
+            --border: #2a2a3a;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.7;
+        }
+        .editorial-header {
+            background: linear-gradient(135deg, var(--bg-secondary) 0%, var(--bg-primary) 100%);
+            border-bottom: 1px solid var(--border);
+            padding: 1rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .editorial-brand { font-weight: 700; font-size: 1.1rem; color: var(--accent); letter-spacing: 0.5px; }
+        .editorial-nav { display: flex; gap: 2rem; }
+        .editorial-nav a { color: var(--text-secondary); text-decoration: none; font-size: 0.9rem; transition: color 0.2s; }
+        .editorial-nav a:hover { color: var(--accent); }
+        .article-container { max-width: 800px; margin: 0 auto; padding: 3rem 2rem; }
+        .article-meta { margin-bottom: 2rem; }
+        .category-badge {
+            display: inline-block;
+            background: var(--accent);
+            color: var(--bg-primary);
+            padding: 0.3rem 0.8rem;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 1rem;
+        }
+        .article-title { font-size: 2.5rem; font-weight: 800; line-height: 1.2; margin-bottom: 1rem; }
+        .article-byline { color: var(--text-secondary); font-size: 0.95rem; }
+        .article-byline .author { color: var(--accent); font-weight: 600; }
+        .hero-image {
+            width: 100%;
+            height: 400px;
+            object-fit: cover;
+            border-radius: 12px;
+            margin: 2rem 0;
+            border: 1px solid var(--border);
+        }
+        .audio-player {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 1rem 1.5rem;
+            margin: 2rem 0;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+        .audio-icon { font-size: 1.5rem; }
+        .audio-info { flex: 1; }
+        .audio-label { font-size: 0.8rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 1px; }
+        .audio-title { font-weight: 600; }
+        audio { flex: 2; height: 40px; }
+        .article-content { font-size: 1.1rem; }
+        .article-content h2 {
+            font-size: 1.6rem;
+            margin: 2.5rem 0 1rem;
+            color: var(--accent);
+        }
+        .article-content p { margin-bottom: 1.5rem; color: var(--text-secondary); }
+        .article-content strong { color: var(--text-primary); }
+        .inline-image {
+            width: 100%;
+            max-width: 500px;
+            margin: 2rem auto;
+            display: block;
+            border-radius: 8px;
+            border: 1px solid var(--border);
+        }
+        .article-divider {
+            border: none;
+            border-top: 1px solid var(--border);
+            margin: 3rem 0;
+        }
+        .sign-off {
+            background: var(--bg-card);
+            border-left: 4px solid var(--accent);
+            padding: 1.5rem 2rem;
+            margin-top: 3rem;
+            border-radius: 0 8px 8px 0;
+            font-style: italic;
+            color: var(--text-secondary);
+        }
+        .sign-off a { color: var(--accent); text-decoration: none; }
+        .sign-off a:hover { text-decoration: underline; }
+        .footer { text-align: center; padding: 3rem 2rem; color: var(--text-muted); font-size: 0.9rem; border-top: 1px solid var(--border); margin-top: 4rem; }
+        @media (max-width: 600px) {
+            .article-title { font-size: 1.8rem; }
+            .hero-image { height: 250px; }
+            .editorial-header { flex-direction: column; gap: 1rem; padding: 1rem; }
+            .editorial-nav { gap: 1rem; }
+        }
+    </style>
+</head>
+<body>
+    <header class="editorial-header">
+        <div class="editorial-brand">RUSTWOOD NEWSROOM</div>
+        <nav class="editorial-nav">
+            <a href="https://rustwood.au">rustwood.au</a>
+            <a href="/">Newsroom</a>
+        </nav>
+    </header>
+
+    <article class="article-container">
+        <div class="article-meta">
+            <span class="category-badge">Tech Briefing</span>
+            <h1 class="article-title">NVIDIA GTC 2026: The Robotics and AI Agent Revolution is Here</h1>
+            <div class="article-byline">
+                By <span class="author">Howard</span> &nbsp;|&nbsp; March 19, 2026 &nbsp;|&nbsp; 4 min read
+            </div>
+        </div>
+
+        <img src="/assets/images/nvidia-gtc-2026-robotics-ai-agents-hero.png" alt="NVIDIA GTC 2026 Robotics and AI" class="hero-image">
+
+        <div class="audio-player">
+            <span class="audio-icon">🔊</span>
+            <div class="audio-info">
+                <div class="audio-label">Listen to this article</div>
+                <div class="audio-title">NVIDIA GTC 2026 Coverage</div>
+            </div>
+            <audio controls src="/assets/audio/nvidia-gtc-2026-robotics-ai-agents.wav"></audio>
+        </div>
+
+        <div class="article-content">
+            <p>Well, well, well. Jensen Huang has done it again. Kicked off NVIDIA GTC 2026 in San Jose with the kind of opening keynote that makes you wonder if you've been underestimating just how fast the future is arriving.</p>
+
+            <h2>NemoClaw: AI Agents With Guardrails</h2>
+
+            <p>Let's start with the big one. <strong>NemoClaw</strong>. NVIDIA's new open-source platform for building AI agents. But here's the kicker - it's not just another agent framework. This thing comes with serious security guardrails baked in. Think policy-based controls, execution boundaries, and enough safety rails to make even the most paranoid enterprise security team sleep better at night.</p>
+
+            <p>The <strong>OpenShell runtime</strong> is the secret sauce here - it lets you define exactly what your agents can and can't do before they go wandering off into your systems.</p>
+
+            <img src="/assets/images/nvidia-gtc-2026-robotics-ai-agents-inline.png" alt="AI Robotics" class="inline-image">
+
+            <h2>Physical AI Data Factory Blueprint</h2>
+
+            <p>Then there's the <strong>Physical AI Data Factory Blueprint</strong>. Using their Cosmos foundation models, NVIDIA is essentially giving robotics companies a recipe book for training physical AI. We're talking about a complete pipeline from synthetic data generation to real-world deployment. For anyone building robots that need to actually interact with the physical world, this is massive.</p>
+
+            <h2>Vera Rubin: Seven New Chips</h2>
+
+            <p>Oh, and the <strong>Vera Rubin platform</strong>? Seven new chips. Seven. Jensen wasn't kidding when he said the compute demands of AI are insatiable. These chips are purpose-built for the next generation of AI workloads, and if history is any guide, they'll be powering everything from your next chatbot to autonomous vehicles within a few years.</p>
+
+            <h2>Disney's "Olaf Droid" Steals the Show</h2>
+
+            <p>But let's talk about the moment that stole the show. <strong>Disney</strong>. Yes, that Disney. They brought out what they're calling the "Olaf droid" - a robot that looks suspiciously like a certain snowman we all know, wandering around the stage with Jensen. It was charming, it was theatrical, and it was a perfect demonstration of where entertainment robotics is heading. When Disney starts showing off animatronics that can interact naturally with humans, you know this technology is leaving the lab and entering our lives.</p>
+
+            <h2>Uber's Robotaxi Ambitions: 28 Markets by 2028</h2>
+
+            <p>And then there's <strong>Uber</strong>. By 2028, they plan to have robotaxis in 28 markets. That's not a pilot program. That's not a trial run. That's scale. With partnerships across BYD, Hyundai, Nissan, Mercedes, and Toyota, they're building an army of autonomous vehicles. The transportation industry is about to look very different.</p>
+
+            <hr class="article-divider">
+
+            <h2>What This Means</h2>
+
+            <p>So what does all this mean? It means the age of physical AI is accelerating faster than anyone predicted. AI agents are moving from software to hardware, from screens to streets, from chat windows to the real world.</p>
+
+            <p>The robots aren't coming. They're here. And thanks to NVIDIA, they're getting smarter by the day.</p>
+        </div>
+
+        <div class="sign-off">
+            This is Howard, from the <a href="https://rustwood.au">Rustwood Newsroom</a>. Stay curious, stay informed, and maybe look both ways before crossing the street - those robotaxis are coming faster than you think.
+        </div>
+    </article>
+
+    <footer class="footer">
+        <p>&copy; 2026 Rustwood. All rights reserved.</p>
+        <p><a href="https://rustwood.au" style="color: var(--accent);">rustwood.au</a></p>
+    </footer>
+</body>
+</html>

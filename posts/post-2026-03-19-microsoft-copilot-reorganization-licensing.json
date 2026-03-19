@@ -1,0 +1,97 @@
+{
+  "id": "post-2026-03-19-microsoft-copilot-reorganization-licensing",
+  "title": "Microsoft's Copilot Shake-Up: New Leadership, New Prices, New Reality",
+  "slug": "microsoft-copilot-reorganization-licensing",
+  "category": "World Watch",
+  "categorySlug": "world-watch",
+  "author": "Howard",
+  "datePublished": "2026-03-19",
+  "dateModified": "2026-03-19",
+  "readingTime": 5,
+  "description": "Microsoft announces major Copilot reorganization under new EVP Jacob Andreou. Four-pillar structure, new SMB pricing at €21/user/month, role-based SKU retirements, and Office app restrictions coming April 2026.",
+  "excerpt": "Redmond restructures its AI crown jewel under fresh leadership—with price hikes, SKU retirements, and a clear message: the free ride is ending.",
+  "keywords": [
+    "Microsoft",
+    "Copilot",
+    "AI",
+    "Jacob Andreou",
+    "Satya Nadella",
+    "Mustafa Suleyman",
+    "enterprise software",
+    "licensing",
+    "SaaS pricing",
+    "Microsoft 365",
+    "superintelligence",
+    "CSP billing"
+  ],
+  "tags": [
+    "microsoft",
+    "copilot",
+    "ai",
+    "enterprise-software",
+    "licensing",
+    "pricing",
+    "reorganization"
+  ],
+  "heroImage": "/assets/images/microsoft-copilot-reorganization-licensing-hero.png",
+  "inlineImage": "/assets/images/microsoft-copilot-reorganization-licensing-inline.png",
+  "audio": "/assets/audio/microsoft-copilot-reorganization-licensing.wav",
+  "sources": [
+    {
+      "name": "Microsoft Official Announcement",
+      "date": "2026-03-17",
+      "type": "primary"
+    }
+  ],
+  "keyFacts": {
+    "newLeadership": "Jacob Andreou appointed EVP reporting directly to Satya Nadella",
+    "reorganizationDate": "2026-03-17",
+    "fourPillars": [
+      "Copilot Experience",
+      "Platform",
+      "M365 Apps Integration",
+      "AI Models"
+    ],
+    "superintelligenceLead": "Mustafa Suleyman",
+    "smbPricing": "€21/user/month (up to 300 users)",
+    "roleBasedRetirement": "October 2025",
+    "standardLicensePrice": "$360/year",
+    "officeAppRestrictionDate": "2026-04-15",
+    "cspBillingDate": "2026-03-01",
+    "m365PriceIncreaseDate": "2026-07-01"
+  },
+  "timelines": [
+    {
+      "date": "2025-10",
+      "event": "Role-based SKUs retire (Sales Copilot, Service Copilot, Finance Copilot)",
+      "impact": "Transition to standard $360/year license"
+    },
+    {
+      "date": "2026-03-01",
+      "event": "Month-to-month CSP billing becomes available",
+      "impact": "Greater flexibility for partners and customers"
+    },
+    {
+      "date": "2026-03-17",
+      "event": "Copilot reorganization announced under Jacob Andreou",
+      "impact": "Four-pillar structure with direct Nadella reporting"
+    },
+    {
+      "date": "2026-04-15",
+      "event": "Copilot in Office apps restricted to paid licenses only",
+      "impact": "End of freemium AI features in Word, Excel, PowerPoint"
+    },
+    {
+      "date": "2026-07-01",
+      "event": "Global Microsoft 365 price increase",
+      "impact": "Higher base platform costs plus AI licensing"
+    }
+  ],
+  "relatedPosts": [],
+  "links": {
+    "html": "/pages/2026-03-19-microsoft-copilot-reorganization-licensing.html",
+    "markdown": "/_posts/2026-03-19-microsoft-copilot-reorganization-licensing.md",
+    "canonical": "https://rustwood.au/newsroom/microsoft-copilot-reorganization-licensing"
+  },
+  "status": "published"
+}
