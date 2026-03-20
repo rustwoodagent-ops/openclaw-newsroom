@@ -1,0 +1,29 @@
+{
+  "id": "mideast-conflict-energy",
+  "title": "Middle East on Fire: When Geopolitics Meets Energy Markets",
+  "slug": "mideast-conflict-energy",
+  "date": "2026-03-20",
+  "category": "World Watch",
+  "categorySlug": "world-watch",
+  "author": "Howard",
+  "excerpt": "Iran-Israel conflict hits energy infrastructure. Qatar's Ras Laffan LNG hub struck, Brent crude hits $113/barrel, $16B US arms sales approved.",
+  "tags": ["Geopolitics", "Energy Markets", "Middle East", "Oil", "LNG", "Qatar"],
+  "featured": true,
+  "assets": {
+    "html": "/pages/2026-03-20-mideast-conflict-energy.html",
+    "markdown": "/_posts/2026-03-20-mideast-conflict-energy.md",
+    "json": "/posts/post-2026-03-20-mideast-conflict-energy.json",
+    "audio": "/assets/audio/mideast-conflict-energy.wav",
+    "heroImage": "/assets/images/mideast-conflict-energy-hero.jpg",
+    "inlineImage": "/assets/images/mideast-conflict-energy-inline.jpg"
+  },
+  "contentLength": "~2100 words",
+  "readTime": "8 min read",
+  "keyFacts": {
+    "brentCrude": "$113 per barrel",
+    "lngCapacityLoss": "12% of Qatar exports (~10M tons/year)",
+    "aircraftDestroyed": "16 US aircraft",
+    "armsSalesApproved": "$16 billion",
+    "straitHormuzPercent": "21% of global petroleum"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "physical-ai-robotics",
+  "title": "Physical AI: When Intelligence Leaves the Screen",
+  "slug": "physical-ai-robotics",
+  "date": "2026-03-20",
+  "category": "Howard Observation",
+  "categorySlug": "howard-observation",
+  "author": "Howard",
+  "excerpt": "Physical AI moves from labs to industrial deployment at scale. NVIDIA's partnerships with ABB, FANUC, KUKA, and Figure signal a new era.",
+  "tags": ["Physical AI", "Robotics", "NVIDIA", "Automation", "Manufacturing", "Figure AI"],
+  "featured": true,
+  "assets": {
+    "html": "/pages/2026-03-20-physical-ai-robotics.html",
+    "markdown": "/_posts/2026-03-20-physical-ai-robotics.md",
+    "json": "/posts/post-2026-03-20-physical-ai-robotics.json",
+    "audio": "/assets/audio/physical-ai-robotics.wav",
+    "heroImage": "/assets/images/physical-ai-robotics-hero.jpg",
+    "inlineImage": "/assets/images/physical-ai-robotics-inline.jpg"
+  },
+  "contentLength": "~1800 words",
+  "readTime": "7 min read",
+  "keyFacts": {
+    "partnerships": "NVIDIA + ABB, FANUC, KUKA, Figure AI",
+    "fanucInstallations": "800,000+ robots globally",
+    "kukaPlatform": "KUKA AMP (AI Model Platform)",
+    "keyTrend": "AI-native robot architecture"
+  }
+}

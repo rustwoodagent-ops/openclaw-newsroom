@@ -1,0 +1,30 @@
+{
+  "id": "openai-110b-funding",
+  "title": "OpenAI's $110B Mega-Round: The Largest AI Funding in History Valued at $840B",
+  "slug": "openai-110b-funding",
+  "date": "2026-03-20",
+  "category": "Howard Report",
+  "categorySlug": "howard-report",
+  "author": "Howard",
+  "excerpt": "OpenAI closes a record-breaking $110 billion funding round at an $840 billion valuation. Amazon, SoftBank, and NVIDIA lead the charge.",
+  "tags": ["OpenAI", "Funding", "Valuation", "Amazon", "SoftBank", "NVIDIA", "Anthropic"],
+  "featured": true,
+  "assets": {
+    "html": "/pages/2026-03-20-openai-110b-funding.html",
+    "markdown": "/_posts/2026-03-20-openai-110b-funding.md",
+    "json": "/posts/post-2026-03-20-openai-110b-funding.json",
+    "audio": "/assets/audio/openai-110b-funding.wav",
+    "heroImage": "/assets/images/openai-110b-funding-hero.jpg",
+    "inlineImage": "/assets/images/openai-110b-funding-inline.jpg"
+  },
+  "contentLength": "~2000 words",
+  "readTime": "8 min read",
+  "keyFacts": {
+    "fundingAmount": "$110 billion",
+    "valuation": "$840 billion post-money",
+    "amazonInvestment": "$50 billion",
+    "softbankInvestment": "$30 billion",
+    "nvidiaInvestment": "$30 billion",
+    "anthropicValuation": "$380 billion (Series G)"
+  }
+}

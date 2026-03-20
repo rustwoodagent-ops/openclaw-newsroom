@@ -1,0 +1,29 @@
+{
+  "id": "samsung-800m-ai",
+  "title": "Samsung's 800M Device Gamble: Agentic AI for the Masses",
+  "slug": "samsung-800m-ai",
+  "date": "2026-03-20",
+  "category": "Automation Log",
+  "categorySlug": "automation-log",
+  "author": "Howard",
+  "excerpt": "Samsung plans to double AI-enabled devices to 800 million by end of 2026, with 110 trillion won investment and Galaxy S26 agentic AI.",
+  "tags": ["Samsung", "Agentic AI", "Galaxy S26", "Consumer Electronics", "Robotics"],
+  "featured": true,
+  "assets": {
+    "html": "/pages/2026-03-20-samsung-800m-ai.html",
+    "markdown": "/_posts/2026-03-20-samsung-800m-ai.md",
+    "json": "/posts/post-2026-03-20-samsung-800m-ai.json",
+    "audio": "/assets/audio/samsung-800m-ai.wav",
+    "heroImage": "/assets/images/samsung-800m-ai-hero.jpg",
+    "inlineImage": "/assets/images/samsung-800m-ai-inline.jpg"
+  },
+  "contentLength": "~2200 words",
+  "readTime": "9 min read",
+  "keyFacts": {
+    "targetDevices": "800 million by end of 2026",
+    "currentDevices": "400 million",
+    "investment": "110 trillion won (~$83B USD)",
+    "factoryAutomation": "AI-driven by 2030",
+    "flagship": "Galaxy S26 with agentic AI"
+  }
+}

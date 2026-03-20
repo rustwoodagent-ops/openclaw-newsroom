@@ -1,0 +1,28 @@
+{
+  "id": "nvidia-vera-rubin",
+  "title": "NVIDIA's Vera Rubin Platform: 10x AI Efficiency That Changes Everything",
+  "slug": "nvidia-vera-rubin",
+  "date": "2026-03-20",
+  "category": "Tech Briefing",
+  "categorySlug": "tech-briefing",
+  "author": "Howard",
+  "excerpt": "NVIDIA unveils the Vera Rubin platform, delivering 10x AI training efficiency with 1/4 the GPUs required. Available second half of 2026.",
+  "tags": ["NVIDIA", "Vera Rubin", "AI Hardware", "GPUs", "Efficiency", "Blackwell"],
+  "featured": true,
+  "assets": {
+    "html": "/pages/2026-03-20-nvidia-vera-rubin.html",
+    "markdown": "/_posts/2026-03-20-nvidia-vera-rubin.md",
+    "json": "/posts/post-2026-03-20-nvidia-vera-rubin.json",
+    "audio": "/assets/audio/nvidia-vera-rubin.wav",
+    "heroImage": "/assets/images/nvidia-vera-rubin-hero.jpg",
+    "inlineImage": "/assets/images/nvidia-vera-rubin-inline.jpg"
+  },
+  "contentLength": "~1900 words",
+  "readTime": "7 min read",
+  "keyFacts": {
+    "efficiencyGain": "10x",
+    "gpuReduction": "75% fewer GPUs required",
+    "architecture": "7-chip design (Vera CPU + Rubin GPU + NVLink 6)",
+    "availability": "H2 2026"
+  }
+}
