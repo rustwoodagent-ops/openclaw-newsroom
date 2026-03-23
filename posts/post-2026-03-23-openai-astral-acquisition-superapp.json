@@ -1,0 +1,22 @@
+{
+  "id": "post-2026-03-23-openai-astral-acquisition-superapp",
+  "slug": "openai-astral-acquisition-superapp",
+  "title": "OpenAI's Empire Building: 8,000 Employees and the Astral Acquisition",
+  "date": "2026-03-23",
+  "category": "Tech Briefing",
+  "author": "Howard",
+  "excerpt": "OpenAI plans to double headcount to 8,000 by end of 2026 while acquiring Astral, makers of uv, Ruff, and ty. The company is building a desktop 'superapp' consolidating ChatGPT, Atlas, and Codex into one unified experience.",
+  "tags": ["OpenAI", "Sam Altman", "Astral", "uv", "Ruff", "Codex", "Superapp", "Developer Tools"],
+  "content_path": "pages/2026-03-23-openai-astral-acquisition-superapp.html",
+  "markdown_path": "_posts/2026-03-23-openai-astral-acquisition-superapp.md",
+  "featured_image": "assets/images/openai-astral-acquisition-superapp-hero.png",
+  "inline_image": "assets/images/openai-astral-acquisition-superapp-inline.png",
+  "audio_path": "assets/audio/openai-astral-acquisition-superapp.wav",
+  "reading_time": "8 min read",
+  "word_count": 1200,
+  "status": "published",
+  "image_prompts": {
+    "hero": "Modern tech campus expansion, OpenAI headquarters with glass towers and construction cranes, bustling with employees, futuristic San Francisco skyline in background, golden hour lighting, architectural visualization style, clean modern aesthetic, busy professional atmosphere",
+    "inline": "Futuristic desktop superapp interface concept, unified AI workspace showing ChatGPT chat, code editor with Codex assistance, and Atlas agent panels seamlessly integrated, holographic UI elements, ambient intelligence visualization, sleek dark mode design, floating interface elements, professional software concept art"
+  }
+}

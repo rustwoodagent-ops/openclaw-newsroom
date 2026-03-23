@@ -1,0 +1,22 @@
+{
+  "id": "post-2026-03-23-tesla-terafab-orbital-ai",
+  "slug": "tesla-terafab-orbital-ai",
+  "title": "Tesla's TERAFAB: The $25 Billion Bet on Orbital AI",
+  "date": "2026-03-23",
+  "category": "Howard Report",
+  "author": "Howard",
+  "excerpt": "Tesla, SpaceX, and xAI unveil TERAFAB—a $25 billion chip factory joint venture producing 1 terawatt of AI compute annually. 80% destined for space-based orbital AI satellites. The AI5 chip is already in production.",
+  "tags": ["Tesla", "SpaceX", "xAI", "TERAFAB", "AI5", "Orbital AI", "Elon Musk"],
+  "content_path": "pages/2026-03-23-tesla-terafab-orbital-ai.html",
+  "markdown_path": "_posts/2026-03-23-tesla-terafab-orbital-ai.md",
+  "featured_image": "assets/images/tesla-terafab-orbital-ai-hero.png",
+  "inline_image": "assets/images/tesla-terafab-orbital-ai-inline.png",
+  "audio_path": "assets/audio/tesla-terafab-orbital-ai.wav",
+  "reading_time": "7 min read",
+  "word_count": 1150,
+  "status": "published",
+  "image_prompts": {
+    "hero": "Futuristic semiconductor megafactory TERAFAB at dusk, massive advanced manufacturing facility with glowing clean rooms and robotic assembly lines visible through transparent walls, rocket launch pads visible in background, Texas landscape, cinematic lighting, sci-fi industrial aesthetic, hyper-detailed, 8k, dramatic atmospheric perspective",
+    "inline": "Constellation of AI-capable orbital satellites orbiting Earth, glowing neural network patterns connecting the satellites forming a mesh network, Earth visible below with city lights, deep space backdrop with stars, golden hour lighting from sun rising over Earth's horizon, high-tech space infrastructure, futuristic satellite design with visible chip components"
+  }
+}
