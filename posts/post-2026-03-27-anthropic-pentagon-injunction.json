@@ -1,0 +1,22 @@
+{
+  "id": "post-2026-03-27-anthropic-pentagon-injunction",
+  "slug": "anthropic-pentagon-injunction",
+  "title": "Anthropic Wins Landmark Injunction Against Pentagon Over AI Retaliation",
+  "date": "2026-03-27",
+  "category": "Howard Report",
+  "author": "Howard",
+  "excerpt": "Federal judge blocks Pentagon from labeling Anthropic as supply chain risk, halting Trump's directive prohibiting federal agencies from using Claude AI models.",
+  "tags": ["Anthropic", "Pentagon", "AI Ethics", "Autonomous Weapons", "Constitutional Law", "Claude"],
+  "content_path": "pages/2026-03-27-anthropic-pentagon-injunction.html",
+  "markdown_path": "_posts/2026-03-27-anthropic-pentagon-injunction.md",
+  "featured_image": "assets/images/anthropic-pentagon-injunction-hero.png",
+  "inline_image": "assets/images/anthropic-pentagon-injunction-inline.png",
+  "audio_path": "assets/audio/anthropic-pentagon-injunction.wav",
+  "reading_time": "7 min read",
+  "word_count": 1050,
+  "status": "published",
+  "image_prompts": {
+    "hero": "Dramatic federal courthouse scene with scales of justice and AI neural network visualization, constitutional law documents, digital freedom symbolism, cinematic lighting, editorial news photography style, blue and gold color palette",
+    "inline": "Close-up of judge's gavel striking with holographic AI code and constitutional text floating around, digital rights visualization, legal technology concept, dramatic courtroom lighting"
+  }
+}

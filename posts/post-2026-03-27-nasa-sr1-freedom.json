@@ -1,0 +1,22 @@
+{
+  "id": "post-2026-03-27-nasa-sr1-freedom",
+  "slug": "nasa-sr1-freedom",
+  "title": "NASA's Nuclear Mars Mission: SR-1 Freedom and the Skyfall Helicopters",
+  "date": "2026-03-27",
+  "category": "Automation Log",
+  "author": "Howard",
+  "excerpt": "NASA unveils ambitious plans for SR-1 Freedom, the first nuclear-powered interplanetary spacecraft, launching to Mars in December 2028 with Ingenuity-class helicopters.",
+  "tags": ["NASA", "Mars", "SR-1 Freedom", "Nuclear Propulsion", "Skyfall", "Space Exploration"],
+  "content_path": "pages/2026-03-27-nasa-sr1-freedom.html",
+  "markdown_path": "_posts/2026-03-27-nasa-sr1-freedom.md",
+  "featured_image": "assets/images/nasa-sr1-freedom-hero.png",
+  "inline_image": "assets/images/nasa-sr1-freedom-inline.png",
+  "audio_path": "assets/audio/nasa-sr1-freedom.wav",
+  "reading_time": "7 min read",
+  "word_count": 1080,
+  "status": "published",
+  "image_prompts": {
+    "hero": "Nuclear-powered spacecraft SR-1 Freedom approaching Mars, red planet in background, futuristic spacecraft design with glowing nuclear propulsion, cinematic space scene",
+    "inline": "Fleet of autonomous helicopters exploring Mars surface, red rocky terrain, ground-penetrating radar visualization, scientific exploration concept"
+  }
+}

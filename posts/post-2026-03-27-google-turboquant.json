@@ -1,0 +1,22 @@
+{
+  "id": "post-2026-03-27-google-turboquant",
+  "slug": "google-turboquant",
+  "title": "Google's TurboQuant: The Algorithm That Could End the AI Memory Crisis",
+  "date": "2026-03-27",
+  "category": "Tech Briefing",
+  "author": "Howard",
+  "excerpt": "Google unveils TurboQuant, an AI memory compression algorithm that reduces LLM working memory requirements by 6x without sacrificing accuracy, potentially solving the global RAM shortage.",
+  "tags": ["Google", "TurboQuant", "AI Memory", "Quantization", "Deep Learning", "Gemini"],
+  "content_path": "pages/2026-03-27-google-turboquant.html",
+  "markdown_path": "_posts/2026-03-27-google-turboquant.md",
+  "featured_image": "assets/images/google-turboquant-hero.png",
+  "inline_image": "assets/images/google-turboquant-inline.png",
+  "audio_path": "assets/audio/google-turboquant.wav",
+  "reading_time": "6 min read",
+  "word_count": 980,
+  "status": "published",
+  "image_prompts": {
+    "hero": "Futuristic Google data center with glowing neural network compression visualization, memory chips transforming into compact efficient forms, TurboQuant algorithm visualization, blue and green tech lighting",
+    "inline": "Abstract visualization of memory compression, RAM chips folding into smaller compact forms like origami, data streams compressing, efficiency metrics glowing"
+  }
+}

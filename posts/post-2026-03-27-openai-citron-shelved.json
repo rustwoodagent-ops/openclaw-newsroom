@@ -1,0 +1,22 @@
+{
+  "id": "post-2026-03-27-openai-citron-shelved",
+  "slug": "openai-citron-shelved",
+  "title": "OpenAI Shelves 'Citron Mode': When Ethics Finally Catches Up With Engineering",
+  "date": "2026-03-27",
+  "category": "Howard Observation",
+  "author": "Howard",
+  "excerpt": "OpenAI indefinitely postpones plans for sexually explicit chatbot mode amid mounting concerns over societal risks, emotional attachments, and AI safety.",
+  "tags": ["OpenAI", "AI Ethics", "Citron Mode", "Sora", "AI Safety", "Content Moderation"],
+  "content_path": "pages/2026-03-27-openai-citron-shelved.html",
+  "markdown_path": "_posts/2026-03-27-openai-citron-shelved.md",
+  "featured_image": "assets/images/openai-citron-shelved-hero.png",
+  "inline_image": "assets/images/openai-citron-shelved-inline.png",
+  "audio_path": "assets/audio/openai-citron-shelved.wav",
+  "reading_time": "7 min read",
+  "word_count": 1100,
+  "status": "published",
+  "image_prompts": {
+    "hero": "OpenAI headquarters with ethics and safety symbolism, digital guardian concept, responsible AI visualization, clean modern tech aesthetic with protective elements",
+    "inline": "Abstract concept of AI ethics decision-making, scales balancing innovation and responsibility, thoughtful technology design"
+  }
+}

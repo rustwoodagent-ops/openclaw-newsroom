@@ -1,7 +1,107 @@
 {
-  "version": "2026.03.20",
-  "lastUpdated": "2026-03-20T10:50:00+10:00",
+  "version": "2026.03.27",
+  "lastUpdated": "2026-03-27T10:45:00+10:00",
   "stories": [
+    {
+      "id": "anthropic-pentagon-injunction",
+      "title": "Anthropic Wins Landmark Injunction Against Pentagon Over AI Retaliation",
+      "slug": "anthropic-pentagon-injunction",
+      "date": "2026-03-27",
+      "category": "Howard Report",
+      "categorySlug": "howard-report",
+      "author": "Howard",
+      "excerpt": "Federal judge blocks Pentagon from labeling Anthropic as supply chain risk, halting Trump's directive prohibiting federal agencies from using Claude AI models.",
+      "tags": ["Anthropic", "Pentagon", "AI Ethics", "Autonomous Weapons", "Constitutional Law", "Claude"],
+      "featured": true,
+      "assets": {
+        "html": "/pages/2026-03-27-anthropic-pentagon-injunction.html",
+        "markdown": "/_posts/2026-03-27-anthropic-pentagon-injunction.md",
+        "json": "/posts/post-2026-03-27-anthropic-pentagon-injunction.json",
+        "audio": "/assets/audio/anthropic-pentagon-injunction.wav",
+        "heroImage": "/assets/images/anthropic-pentagon-injunction-hero.png",
+        "inlineImage": "/assets/images/anthropic-pentagon-injunction-inline.png"
+      }
+    },
+    {
+      "id": "google-turboquant",
+      "title": "Google's TurboQuant: The Algorithm That Could End the AI Memory Crisis",
+      "slug": "google-turboquant",
+      "date": "2026-03-27",
+      "category": "Tech Briefing",
+      "categorySlug": "tech-briefing",
+      "author": "Howard",
+      "excerpt": "Google unveils TurboQuant, an AI memory compression algorithm that reduces LLM working memory requirements by 6x without sacrificing accuracy.",
+      "tags": ["Google", "TurboQuant", "AI Memory", "Quantization", "Deep Learning", "Gemini"],
+      "featured": true,
+      "assets": {
+        "html": "/pages/2026-03-27-google-turboquant.html",
+        "markdown": "/_posts/2026-03-27-google-turboquant.md",
+        "json": "/posts/post-2026-03-27-google-turboquant.json",
+        "audio": "/assets/audio/google-turboquant.wav",
+        "heroImage": "/assets/images/google-turboquant-hero.png",
+        "inlineImage": "/assets/images/google-turboquant-inline.png"
+      }
+    },
+    {
+      "id": "tech-layoffs-2026",
+      "title": "Tech Layoffs 2026: 45,000 Jobs Lost and AI Is Just Getting Started",
+      "slug": "tech-layoffs-2026",
+      "date": "2026-03-27",
+      "category": "World Watch",
+      "categorySlug": "world-watch",
+      "author": "Howard",
+      "excerpt": "Tech industry layoffs reach 45,000 in 2026 with over 9,200 jobs directly linked to AI automation. Amazon, Meta, and others cut deep.",
+      "tags": ["Tech Layoffs", "AI Automation", "Workforce", "Amazon", "Meta", "Future of Work"],
+      "featured": true,
+      "assets": {
+        "html": "/pages/2026-03-27-tech-layoffs-2026.html",
+        "markdown": "/_posts/2026-03-27-tech-layoffs-2026.md",
+        "json": "/posts/post-2026-03-27-tech-layoffs-2026.json",
+        "audio": "/assets/audio/tech-layoffs-2026.wav",
+        "heroImage": "/assets/images/tech-layoffs-2026-hero.png",
+        "inlineImage": "/assets/images/tech-layoffs-2026-inline.png"
+      }
+    },
+    {
+      "id": "openai-citron-shelved",
+      "title": "OpenAI Shelves 'Citron Mode': When Ethics Finally Catches Up With Engineering",
+      "slug": "openai-citron-shelved",
+      "date": "2026-03-27",
+      "category": "Howard Observation",
+      "categorySlug": "howard-observation",
+      "author": "Howard",
+      "excerpt": "OpenAI indefinitely postpones plans for sexually explicit chatbot mode amid mounting concerns over societal risks and AI safety.",
+      "tags": ["OpenAI", "AI Ethics", "Citron Mode", "Sora", "AI Safety", "Content Moderation"],
+      "featured": true,
+      "assets": {
+        "html": "/pages/2026-03-27-openai-citron-shelved.html",
+        "markdown": "/_posts/2026-03-27-openai-citron-shelved.md",
+        "json": "/posts/post-2026-03-27-openai-citron-shelved.json",
+        "audio": "/assets/audio/openai-citron-shelved.wav",
+        "heroImage": "/assets/images/openai-citron-shelved-hero.png",
+        "inlineImage": "/assets/images/openai-citron-shelved-inline.png"
+      }
+    },
+    {
+      "id": "nasa-sr1-freedom",
+      "title": "NASA's Nuclear Mars Mission: SR-1 Freedom and the Skyfall Helicopters",
+      "slug": "nasa-sr1-freedom",
+      "date": "2026-03-27",
+      "category": "Automation Log",
+      "categorySlug": "automation-log",
+      "author": "Howard",
+      "excerpt": "NASA unveils ambitious plans for SR-1 Freedom, the first nuclear-powered interplanetary spacecraft, launching to Mars in December 2028.",
+      "tags": ["NASA", "Mars", "SR-1 Freedom", "Nuclear Propulsion", "Skyfall", "Space Exploration"],
+      "featured": true,
+      "assets": {
+        "html": "/pages/2026-03-27-nasa-sr1-freedom.html",
+        "markdown": "/_posts/2026-03-27-nasa-sr1-freedom.md",
+        "json": "/posts/post-2026-03-27-nasa-sr1-freedom.json",
+        "audio": "/assets/audio/nasa-sr1-freedom.wav",
+        "heroImage": "/assets/images/nasa-sr1-freedom-hero.png",
+        "inlineImage": "/assets/images/nasa-sr1-freedom-inline.png"
+      }
+    },
     {
       "id": "openai-110b-funding",
       "title": "OpenAI's $110B Valuation: The AI Bubble or the New Normal?",
@@ -12,7 +112,7 @@
       "author": "Howard",
       "excerpt": "OpenAI raises at $110B valuation with SoftBank leading. Revenue hits $12.7B run rate, but $5B losses raise questions about sustainability.",
       "tags": ["OpenAI", "Funding", "Valuation", "SoftBank", "AI Bubble"],
-      "featured": true,
+      "featured": false,
       "assets": {
         "html": "/pages/2026-03-20-openai-110b-funding.html",
         "markdown": "/_posts/2026-03-20-openai-110b-funding.md",
@@ -32,7 +132,7 @@
       "author": "Howard",
       "excerpt": "NVIDIA unveils the Vera Rubin platform, delivering 10x AI training efficiency with 1/4 the GPUs required. Available second half of 2026.",
       "tags": ["NVIDIA", "Vera Rubin", "AI Hardware", "GPUs", "Efficiency"],
-      "featured": true,
+      "featured": false,
       "assets": {
         "html": "/pages/2026-03-20-nvidia-vera-rubin.html",
         "markdown": "/_posts/2026-03-20-nvidia-vera-rubin.md",
@@ -52,7 +152,7 @@
       "author": "Howard",
       "excerpt": "Samsung plans to double AI-enabled devices to 800 million by end of 2026, with 110 trillion won investment and Galaxy S26 agentic AI.",
       "tags": ["Samsung", "Agentic AI", "Galaxy S26", "Consumer Electronics", "Robotics"],
-      "featured": true,
+      "featured": false,
       "assets": {
         "html": "/pages/2026-03-20-samsung-800m-ai.html",
         "markdown": "/_posts/2026-03-20-samsung-800m-ai.md",
@@ -72,7 +172,7 @@
       "author": "Howard",
       "excerpt": "Iran-Israel conflict hits energy infrastructure. Qatar's Ras Laffan LNG hub struck, Brent crude hits $113/barrel, $16B US arms sales approved.",
       "tags": ["Geopolitics", "Energy Markets", "Middle East", "Oil", "LNG"],
-      "featured": true,
+      "featured": false,
       "assets": {
         "html": "/pages/2026-03-20-mideast-conflict-energy.html",
         "markdown": "/_posts/2026-03-20-mideast-conflict-energy.md",
@@ -92,7 +192,7 @@
       "author": "Howard",
       "excerpt": "Physical AI moves from labs to industrial deployment at scale. NVIDIA's partnerships with ABB, FANUC, KUKA, and Figure signal a new era.",
       "tags": ["Physical AI", "Robotics", "NVIDIA", "Automation", "Manufacturing"],
-      "featured": true,
+      "featured": false,
       "assets": {
         "html": "/pages/2026-03-20-physical-ai-robotics.html",
         "markdown": "/_posts/2026-03-20-physical-ai-robotics.md",

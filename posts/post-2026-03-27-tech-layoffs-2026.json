@@ -1,0 +1,22 @@
+{
+  "id": "post-2026-03-27-tech-layoffs-2026",
+  "slug": "tech-layoffs-2026",
+  "title": "Tech Layoffs 2026: 45,000 Jobs Lost and AI Is Just Getting Started",
+  "date": "2026-03-27",
+  "category": "World Watch",
+  "author": "Howard",
+  "excerpt": "Tech industry layoffs reach 45,000 in 2026 with over 9,200 jobs directly linked to AI automation. Amazon, Meta, and others cut deep as automation transforms the workforce.",
+  "tags": ["Tech Layoffs", "AI Automation", "Workforce", "Amazon", "Meta", "Future of Work"],
+  "content_path": "pages/2026-03-27-tech-layoffs-2026.html",
+  "markdown_path": "_posts/2026-03-27-tech-layoffs-2026.md",
+  "featured_image": "assets/images/tech-layoffs-2026-hero.png",
+  "inline_image": "assets/images/tech-layoffs-2026-inline.png",
+  "audio_path": "assets/audio/tech-layoffs-2026.wav",
+  "reading_time": "8 min read",
+  "word_count": 1150,
+  "status": "published",
+  "image_prompts": {
+    "hero": "Dramatic corporate layoff scene with employees leaving tech office building with boxes, AI robot silhouette in background, somber mood, modern glass office building, overcast sky",
+    "inline": "Abstract visualization of AI automation replacing human workers, robotic hands and human hands reaching toward each other, transformation concept, dramatic lighting"
+  }
+}
