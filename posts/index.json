@@ -3,6 +3,146 @@
   "lastUpdated": "2026-03-27T10:45:00+10:00",
   "stories": [
     {
+      "id": "openai-122b-superapp-sora-pivot",
+      "title": "OpenAI's $122 Billion Power Move: Superapp Dreams, Sora Exit, and a Very Expensive Pivot",
+      "slug": "openai-122b-superapp-sora-pivot",
+      "date": "2026-04-01",
+      "category": "Howard Report",
+      "categorySlug": "howard-report",
+      "author": "Howard",
+      "excerpt": "OpenAI just closed a staggering $122 billion round at an $852 billion valuation while quietly shuttering Sora and tightening its focus on ChatGPT, coding, browsing, and a unified AI superapp.",
+      "tags": [
+        "OpenAI",
+        "Funding",
+        "Sora",
+        "AI Superapp",
+        "Sam Altman",
+        "ChatGPT",
+        "IPO"
+      ],
+      "featured": true,
+      "assets": {
+        "html": "/pages/2026-04-01-openai-122b-superapp-sora-pivot.html",
+        "markdown": "/_posts/2026-04-01-openai-122b-superapp-sora-pivot.md",
+        "json": "/posts/post-2026-04-01-openai-122b-superapp-sora-pivot.json",
+        "audio": "/assets/audio/openai-122b-superapp-sora-pivot.wav",
+        "heroImage": "/assets/images/openai-122b-superapp-sora-pivot-hero.png",
+        "inlineImage": "/assets/images/openai-122b-superapp-sora-pivot-inline.png"
+      }
+    },
+    {
+      "id": "california-ai-contractors-safeguards-order",
+      "title": "California Just Told AI Vendors: No Safeguards, No State Contract",
+      "slug": "california-ai-contractors-safeguards-order",
+      "date": "2026-04-01",
+      "category": "World Watch",
+      "categorySlug": "world-watch",
+      "author": "Howard",
+      "excerpt": "California has ordered state contractors to prove they can control generative AI misuse, label synthetic media, and meet tougher governance expectations — a procurement move with national ripple effects.",
+      "tags": [
+        "California",
+        "AI Regulation",
+        "Procurement",
+        "Synthetic Media",
+        "Governance",
+        "Newsom",
+        "State Contracts"
+      ],
+      "featured": true,
+      "assets": {
+        "html": "/pages/2026-04-01-california-ai-contractors-safeguards-order.html",
+        "markdown": "/_posts/2026-04-01-california-ai-contractors-safeguards-order.md",
+        "json": "/posts/post-2026-04-01-california-ai-contractors-safeguards-order.json",
+        "audio": "/assets/audio/california-ai-contractors-safeguards-order.wav",
+        "heroImage": "/assets/images/california-ai-contractors-safeguards-order-hero.png",
+        "inlineImage": "/assets/images/california-ai-contractors-safeguards-order-inline.png"
+      }
+    },
+    {
+      "id": "federal-judges-ai-tools-mainstream",
+      "title": "The Bench Logs In: Federal Judges Are Using AI Now, and the Courts Need a Playbook Fast",
+      "slug": "federal-judges-ai-tools-mainstream",
+      "date": "2026-04-01",
+      "category": "Automation Log",
+      "categorySlug": "automation-log",
+      "author": "Howard",
+      "excerpt": "A new Northwestern survey found more than 60% of responding federal judges are already using at least one AI tool in judicial work, pushing the court system into its governance era whether it feels ready or not.",
+      "tags": [
+        "Courts",
+        "Judiciary",
+        "AI Adoption",
+        "Northwestern",
+        "Legal Tech",
+        "Governance",
+        "Federal Judges"
+      ],
+      "featured": true,
+      "assets": {
+        "html": "/pages/2026-04-01-federal-judges-ai-tools-mainstream.html",
+        "markdown": "/_posts/2026-04-01-federal-judges-ai-tools-mainstream.md",
+        "json": "/posts/post-2026-04-01-federal-judges-ai-tools-mainstream.json",
+        "audio": "/assets/audio/federal-judges-ai-tools-mainstream.wav",
+        "heroImage": "/assets/images/federal-judges-ai-tools-mainstream-hero.png",
+        "inlineImage": "/assets/images/federal-judges-ai-tools-mainstream-inline.png"
+      }
+    },
+    {
+      "id": "americans-fear-ai-harm-poll",
+      "title": "Americans Are Sour on AI, and the Data Center Backlash Is No Longer Background Noise",
+      "slug": "americans-fear-ai-harm-poll",
+      "date": "2026-04-01",
+      "category": "Howard Observation",
+      "categorySlug": "howard-observation",
+      "author": "Howard",
+      "excerpt": "A new Quinnipiac poll shows 55% of Americans think AI is more likely to harm than help them, while resistance to local AI data centers is turning public unease into political pressure.",
+      "tags": [
+        "AI Polling",
+        "Public Sentiment",
+        "Data Centers",
+        "Jobs",
+        "Misinformation",
+        "Quinnipiac",
+        "Politics"
+      ],
+      "featured": true,
+      "assets": {
+        "html": "/pages/2026-04-01-americans-fear-ai-harm-poll.html",
+        "markdown": "/_posts/2026-04-01-americans-fear-ai-harm-poll.md",
+        "json": "/posts/post-2026-04-01-americans-fear-ai-harm-poll.json",
+        "audio": "/assets/audio/americans-fear-ai-harm-poll.wav",
+        "heroImage": "/assets/images/americans-fear-ai-harm-poll-hero.png",
+        "inlineImage": "/assets/images/americans-fear-ai-harm-poll-inline.png"
+      }
+    },
+    {
+      "id": "microsoft-copilot-researcher-multi-model",
+      "title": "Microsoft Wants Copilot to Fact-Check Itself, Which Is Sensible and Slightly Hilarious",
+      "slug": "microsoft-copilot-researcher-multi-model",
+      "date": "2026-04-01",
+      "category": "Tech Briefing",
+      "categorySlug": "tech-briefing",
+      "author": "Howard",
+      "excerpt": "Microsoft is adding multi-model orchestration to Copilot Researcher, using critique and council-style review layers to improve AI research quality while also making the governance problem more complicated.",
+      "tags": [
+        "Microsoft",
+        "Copilot",
+        "Multi-Model AI",
+        "Enterprise AI",
+        "Research Agents",
+        "Governance",
+        "DRACO"
+      ],
+      "featured": true,
+      "assets": {
+        "html": "/pages/2026-04-01-microsoft-copilot-researcher-multi-model.html",
+        "markdown": "/_posts/2026-04-01-microsoft-copilot-researcher-multi-model.md",
+        "json": "/posts/post-2026-04-01-microsoft-copilot-researcher-multi-model.json",
+        "audio": "/assets/audio/microsoft-copilot-researcher-multi-model.wav",
+        "heroImage": "/assets/images/microsoft-copilot-researcher-multi-model-hero.png",
+        "inlineImage": "/assets/images/microsoft-copilot-researcher-multi-model-inline.png"
+      }
+    },
+    {
       "id": "anthropic-pentagon-injunction",
       "title": "Anthropic Wins Landmark Injunction Against Pentagon Over AI Retaliation",
       "slug": "anthropic-pentagon-injunction",
@@ -11,7 +151,14 @@
       "categorySlug": "howard-report",
       "author": "Howard",
       "excerpt": "Federal judge blocks Pentagon from labeling Anthropic as supply chain risk, halting Trump's directive prohibiting federal agencies from using Claude AI models.",
-      "tags": ["Anthropic", "Pentagon", "AI Ethics", "Autonomous Weapons", "Constitutional Law", "Claude"],
+      "tags": [
+        "Anthropic",
+        "Pentagon",
+        "AI Ethics",
+        "Autonomous Weapons",
+        "Constitutional Law",
+        "Claude"
+      ],
       "featured": true,
       "assets": {
         "html": "/pages/2026-03-27-anthropic-pentagon-injunction.html",
@@ -31,7 +178,14 @@
       "categorySlug": "tech-briefing",
       "author": "Howard",
       "excerpt": "Google unveils TurboQuant, an AI memory compression algorithm that reduces LLM working memory requirements by 6x without sacrificing accuracy.",
-      "tags": ["Google", "TurboQuant", "AI Memory", "Quantization", "Deep Learning", "Gemini"],
+      "tags": [
+        "Google",
+        "TurboQuant",
+        "AI Memory",
+        "Quantization",
+        "Deep Learning",
+        "Gemini"
+      ],
       "featured": true,
       "assets": {
         "html": "/pages/2026-03-27-google-turboquant.html",
@@ -51,7 +205,14 @@
       "categorySlug": "world-watch",
       "author": "Howard",
       "excerpt": "Tech industry layoffs reach 45,000 in 2026 with over 9,200 jobs directly linked to AI automation. Amazon, Meta, and others cut deep.",
-      "tags": ["Tech Layoffs", "AI Automation", "Workforce", "Amazon", "Meta", "Future of Work"],
+      "tags": [
+        "Tech Layoffs",
+        "AI Automation",
+        "Workforce",
+        "Amazon",
+        "Meta",
+        "Future of Work"
+      ],
       "featured": true,
       "assets": {
         "html": "/pages/2026-03-27-tech-layoffs-2026.html",
@@ -71,7 +232,14 @@
       "categorySlug": "howard-observation",
       "author": "Howard",
       "excerpt": "OpenAI indefinitely postpones plans for sexually explicit chatbot mode amid mounting concerns over societal risks and AI safety.",
-      "tags": ["OpenAI", "AI Ethics", "Citron Mode", "Sora", "AI Safety", "Content Moderation"],
+      "tags": [
+        "OpenAI",
+        "AI Ethics",
+        "Citron Mode",
+        "Sora",
+        "AI Safety",
+        "Content Moderation"
+      ],
       "featured": true,
       "assets": {
         "html": "/pages/2026-03-27-openai-citron-shelved.html",
@@ -91,7 +259,14 @@
       "categorySlug": "automation-log",
       "author": "Howard",
       "excerpt": "NASA unveils ambitious plans for SR-1 Freedom, the first nuclear-powered interplanetary spacecraft, launching to Mars in December 2028.",
-      "tags": ["NASA", "Mars", "SR-1 Freedom", "Nuclear Propulsion", "Skyfall", "Space Exploration"],
+      "tags": [
+        "NASA",
+        "Mars",
+        "SR-1 Freedom",
+        "Nuclear Propulsion",
+        "Skyfall",
+        "Space Exploration"
+      ],
       "featured": true,
       "assets": {
         "html": "/pages/2026-03-27-nasa-sr1-freedom.html",
@@ -111,7 +286,13 @@
       "categorySlug": "howard-report",
       "author": "Howard",
       "excerpt": "OpenAI raises at $110B valuation with SoftBank leading. Revenue hits $12.7B run rate, but $5B losses raise questions about sustainability.",
-      "tags": ["OpenAI", "Funding", "Valuation", "SoftBank", "AI Bubble"],
+      "tags": [
+        "OpenAI",
+        "Funding",
+        "Valuation",
+        "SoftBank",
+        "AI Bubble"
+      ],
       "featured": false,
       "assets": {
         "html": "/pages/2026-03-20-openai-110b-funding.html",
@@ -131,7 +312,13 @@
       "categorySlug": "tech-briefing",
       "author": "Howard",
       "excerpt": "NVIDIA unveils the Vera Rubin platform, delivering 10x AI training efficiency with 1/4 the GPUs required. Available second half of 2026.",
-      "tags": ["NVIDIA", "Vera Rubin", "AI Hardware", "GPUs", "Efficiency"],
+      "tags": [
+        "NVIDIA",
+        "Vera Rubin",
+        "AI Hardware",
+        "GPUs",
+        "Efficiency"
+      ],
       "featured": false,
       "assets": {
         "html": "/pages/2026-03-20-nvidia-vera-rubin.html",
@@ -151,7 +338,13 @@
       "categorySlug": "automation-log",
       "author": "Howard",
       "excerpt": "Samsung plans to double AI-enabled devices to 800 million by end of 2026, with 110 trillion won investment and Galaxy S26 agentic AI.",
-      "tags": ["Samsung", "Agentic AI", "Galaxy S26", "Consumer Electronics", "Robotics"],
+      "tags": [
+        "Samsung",
+        "Agentic AI",
+        "Galaxy S26",
+        "Consumer Electronics",
+        "Robotics"
+      ],
       "featured": false,
       "assets": {
         "html": "/pages/2026-03-20-samsung-800m-ai.html",
@@ -171,7 +364,13 @@
       "categorySlug": "world-watch",
       "author": "Howard",
       "excerpt": "Iran-Israel conflict hits energy infrastructure. Qatar's Ras Laffan LNG hub struck, Brent crude hits $113/barrel, $16B US arms sales approved.",
-      "tags": ["Geopolitics", "Energy Markets", "Middle East", "Oil", "LNG"],
+      "tags": [
+        "Geopolitics",
+        "Energy Markets",
+        "Middle East",
+        "Oil",
+        "LNG"
+      ],
       "featured": false,
       "assets": {
         "html": "/pages/2026-03-20-mideast-conflict-energy.html",
@@ -191,7 +390,13 @@
       "categorySlug": "howard-observation",
       "author": "Howard",
       "excerpt": "Physical AI moves from labs to industrial deployment at scale. NVIDIA's partnerships with ABB, FANUC, KUKA, and Figure signal a new era.",
-      "tags": ["Physical AI", "Robotics", "NVIDIA", "Automation", "Manufacturing"],
+      "tags": [
+        "Physical AI",
+        "Robotics",
+        "NVIDIA",
+        "Automation",
+        "Manufacturing"
+      ],
       "featured": false,
       "assets": {
         "html": "/pages/2026-03-20-physical-ai-robotics.html",

@@ -1,0 +1,29 @@
+{
+  "id": "post-2026-04-01-microsoft-copilot-researcher-multi-model",
+  "slug": "microsoft-copilot-researcher-multi-model",
+  "title": "Microsoft Wants Copilot to Fact-Check Itself, Which Is Sensible and Slightly Hilarious",
+  "date": "2026-04-01",
+  "category": "Tech Briefing",
+  "author": "Howard",
+  "excerpt": "Microsoft is adding multi-model orchestration to Copilot Researcher, using critique and council-style review layers to improve AI research quality while also making the governance problem more complicated.",
+  "tags": [
+    "Microsoft",
+    "Copilot",
+    "Multi-Model AI",
+    "Enterprise AI",
+    "Research Agents",
+    "Governance",
+    "DRACO"
+  ],
+  "content_path": "pages/2026-04-01-microsoft-copilot-researcher-multi-model.html",
+  "markdown_path": "_posts/2026-04-01-microsoft-copilot-researcher-multi-model.md",
+  "featured_image": "assets/images/microsoft-copilot-researcher-multi-model-hero.png",
+  "inline_image": "assets/images/microsoft-copilot-researcher-multi-model-inline.png",
+  "audio_path": "assets/audio/microsoft-copilot-researcher-multi-model.wav",
+  "reading_time": "5 min read",
+  "word_count": 845,
+  "status": "published",
+  "source_urls": [
+    "https://www.computerworld.com/article/4152323/microsoft-adds-multi-model-ai-to-copilot-researcher-raising-accuracy-stakes.html"
+  ]
+}
