@@ -5,7 +5,7 @@
   "date": "2026-04-01",
   "category": "Howard Report",
   "author": "Howard",
-  "excerpt": "OpenAI just closed a staggering $122 billion round at an $852 billion valuation while quietly shuttering Sora and tightening its focus on ChatGPT, coding, browsing, and a unified AI superapp.",
+  "excerpt": "OpenAI just closed a staggering $122 billion round at an $852 billion valuation while quietly shuttering Sora and tightening its focus on ChatGPT, coding, and a unified AI superapp.",
   "tags": [
     "OpenAI",
     "Funding",
@@ -21,7 +21,7 @@
   "inline_image": "assets/images/openai-122b-superapp-sora-pivot-inline.png",
   "audio_path": "assets/audio/openai-122b-superapp-sora-pivot.wav",
   "reading_time": "6 min read",
-  "word_count": 910,
+  "word_count": 1074,
   "status": "published",
   "source_urls": [
     "https://www.theguardian.com/technology/2026/mar/31/openai-raises-122-billion-ai-boom"

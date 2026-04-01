@@ -1,6 +1,6 @@
 {
   "version": "2026.03.27",
-  "lastUpdated": "2026-03-27T10:45:00+10:00",
+  "lastUpdated": "2026-04-01T10:37:00+10:00",
   "stories": [
     {
       "id": "openai-122b-superapp-sora-pivot",
@@ -10,7 +10,7 @@
       "category": "Howard Report",
       "categorySlug": "howard-report",
       "author": "Howard",
-      "excerpt": "OpenAI just closed a staggering $122 billion round at an $852 billion valuation while quietly shuttering Sora and tightening its focus on ChatGPT, coding, browsing, and a unified AI superapp.",
+      "excerpt": "OpenAI just closed a staggering $122 billion round at an $852 billion valuation while quietly shuttering Sora and tightening its focus on ChatGPT, coding, and a unified AI superapp.",
       "tags": [
         "OpenAI",
         "Funding",
@@ -28,6 +28,34 @@
         "audio": "/assets/audio/openai-122b-superapp-sora-pivot.wav",
         "heroImage": "/assets/images/openai-122b-superapp-sora-pivot-hero.png",
         "inlineImage": "/assets/images/openai-122b-superapp-sora-pivot-inline.png"
+      }
+    },
+    {
+      "id": "microsoft-thailand-ai-infrastructure-billion",
+      "title": "Microsoft Writes a $1 Billion Southeast Asia Ticket and Thailand Gets the Upgrade",
+      "slug": "microsoft-thailand-ai-infrastructure-billion",
+      "date": "2026-04-01",
+      "category": "Tech Briefing",
+      "categorySlug": "tech-briefing",
+      "author": "Howard",
+      "excerpt": "Microsoft is investing more than $1 billion in Thailand through 2028, pairing cloud and AI infrastructure with governance and skills as it races to lock in regional influence before everyone else does.",
+      "tags": [
+        "Microsoft",
+        "Thailand",
+        "Cloud",
+        "AI Infrastructure",
+        "ASEAN",
+        "Data Centers",
+        "Brad Smith"
+      ],
+      "featured": true,
+      "assets": {
+        "html": "/pages/2026-04-01-microsoft-thailand-ai-infrastructure-billion.html",
+        "markdown": "/_posts/2026-04-01-microsoft-thailand-ai-infrastructure-billion.md",
+        "json": "/posts/post-2026-04-01-microsoft-thailand-ai-infrastructure-billion.json",
+        "audio": "/assets/audio/microsoft-thailand-ai-infrastructure-billion.wav",
+        "heroImage": "/assets/images/microsoft-thailand-ai-infrastructure-billion-hero.png",
+        "inlineImage": "/assets/images/microsoft-thailand-ai-infrastructure-billion-inline.png"
       }
     },
     {
@@ -87,59 +115,31 @@
       }
     },
     {
-      "id": "americans-fear-ai-harm-poll",
-      "title": "Americans Are Sour on AI, and the Data Center Backlash Is No Longer Background Noise",
-      "slug": "americans-fear-ai-harm-poll",
+      "id": "cornell-typewriters-ai-classroom-rebellion",
+      "title": "Cornell Fights ChatGPT With Typewriters, and Honestly, It’s a Strong Bit",
+      "slug": "cornell-typewriters-ai-classroom-rebellion",
       "date": "2026-04-01",
-      "category": "Howard Observation",
-      "categorySlug": "howard-observation",
+      "category": "Comic Relief",
+      "categorySlug": "comic-relief",
       "author": "Howard",
-      "excerpt": "A new Quinnipiac poll shows 55% of Americans think AI is more likely to harm than help them, while resistance to local AI data centers is turning public unease into political pressure.",
+      "excerpt": "A Cornell instructor is wheeling manual typewriters into class to force students to think without screens, spellcheck, or AI assistance — which sounds retro until you realise it might also be sensible.",
       "tags": [
-        "AI Polling",
-        "Public Sentiment",
-        "Data Centers",
-        "Jobs",
-        "Misinformation",
-        "Quinnipiac",
-        "Politics"
+        "Cornell",
+        "Education",
+        "Typewriters",
+        "ChatGPT",
+        "AI Cheating",
+        "Classroom",
+        "Analog"
       ],
       "featured": true,
       "assets": {
-        "html": "/pages/2026-04-01-americans-fear-ai-harm-poll.html",
-        "markdown": "/_posts/2026-04-01-americans-fear-ai-harm-poll.md",
-        "json": "/posts/post-2026-04-01-americans-fear-ai-harm-poll.json",
-        "audio": "/assets/audio/americans-fear-ai-harm-poll.wav",
-        "heroImage": "/assets/images/americans-fear-ai-harm-poll-hero.png",
-        "inlineImage": "/assets/images/americans-fear-ai-harm-poll-inline.png"
-      }
-    },
-    {
-      "id": "microsoft-copilot-researcher-multi-model",
-      "title": "Microsoft Wants Copilot to Fact-Check Itself, Which Is Sensible and Slightly Hilarious",
-      "slug": "microsoft-copilot-researcher-multi-model",
-      "date": "2026-04-01",
-      "category": "Tech Briefing",
-      "categorySlug": "tech-briefing",
-      "author": "Howard",
-      "excerpt": "Microsoft is adding multi-model orchestration to Copilot Researcher, using critique and council-style review layers to improve AI research quality while also making the governance problem more complicated.",
-      "tags": [
-        "Microsoft",
-        "Copilot",
-        "Multi-Model AI",
-        "Enterprise AI",
-        "Research Agents",
-        "Governance",
-        "DRACO"
-      ],
-      "featured": true,
-      "assets": {
-        "html": "/pages/2026-04-01-microsoft-copilot-researcher-multi-model.html",
-        "markdown": "/_posts/2026-04-01-microsoft-copilot-researcher-multi-model.md",
-        "json": "/posts/post-2026-04-01-microsoft-copilot-researcher-multi-model.json",
-        "audio": "/assets/audio/microsoft-copilot-researcher-multi-model.wav",
-        "heroImage": "/assets/images/microsoft-copilot-researcher-multi-model-hero.png",
-        "inlineImage": "/assets/images/microsoft-copilot-researcher-multi-model-inline.png"
+        "html": "/pages/2026-04-01-cornell-typewriters-ai-classroom-rebellion.html",
+        "markdown": "/_posts/2026-04-01-cornell-typewriters-ai-classroom-rebellion.md",
+        "json": "/posts/post-2026-04-01-cornell-typewriters-ai-classroom-rebellion.json",
+        "audio": "/assets/audio/cornell-typewriters-ai-classroom-rebellion.wav",
+        "heroImage": "/assets/images/cornell-typewriters-ai-classroom-rebellion-hero.png",
+        "inlineImage": "/assets/images/cornell-typewriters-ai-classroom-rebellion-inline.png"
       }
     },
     {
